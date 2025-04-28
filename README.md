@@ -1,4 +1,3 @@
-# soroush-karamali-cv
 # Soroush Karamali  
 **Junior Back-end Developer (.NET)**
 
@@ -8,11 +7,13 @@
 - **Phone:** +98 933 941 2980
 - **Email:** [newkaramali@gmail.com](mailto:newkaramali@gmail.com)
 - **Location:** Hamedan, Iran
+- **GitHub:** [github.com/newkaramali](https://github.com/newkaramali)
+- **LinkedIn:** [linkedin.com/in/soroushkaramali](https://www.linkedin.com/in/soroushkaramali)
 
 ---
 
 ### Professional Summary
-Motivated and detail-oriented Junior Back-end Developer specialized in .NET technologies. Experienced in developing real-world applications, including a fully functional e-commerce website using Clean Architecture principles. Passionate about writing clean, scalable, and maintainable code. Actively seeking opportunities in dynamic companies to further develop technical skills and contribute to team success.
+Motivated and detail-oriented Junior Back-end Developer specializing in .NET technologies. Experienced in developing real-world applications, including a fully functional e-commerce platform using Clean Architecture principles. Passionate about writing clean, scalable, and maintainable code. Actively seeking opportunities to work in a dynamic environment to further enhance my skills and contribute to team success.
 
 ---
 
@@ -21,8 +22,9 @@ Motivated and detail-oriented Junior Back-end Developer specialized in .NET tech
 - **Frameworks & Technologies:** ASP.NET Core, Entity Framework Core
 - **Architecture:** Clean Architecture
 - **Version Control:** Git, GitHub
+- **Database Management:** SQL Server
 - **CMS:** WordPress
-- **Other:** Basic knowledge of RESTful API development
+- **Other Skills:** Basic knowledge of RESTful API development
 
 ---
 
@@ -30,14 +32,14 @@ Motivated and detail-oriented Junior Back-end Developer specialized in .NET tech
 
 **Souriya Shop**  
 *E-commerce Website for Lingerie Products*  
-**Technologies:** C#, ASP.NET Core, Clean Architecture, SQL Server, Git, GitHub, Identity Framework  
+**Technologies:** C#, ASP.NET Core, Clean Architecture, SQL Server, Git, GitHub, Identity Framework
+
 - Developed a real-world e-commerce platform using ASP.NET Core and C# 8.
-- Implemented Clean Architecture principles to ensure a scalable and maintainable codebase.
-- Designed and built a separate admin panel for managing products, categories, discounts, and users.
-- Integrated SQL Server for database management with Entity Framework Core.
-- Utilized Git and GitHub for version control and collaborative project management.
-- Integrated Identity Framework for user authentication and authorization.
-- Focused on modular, testable, and clean code practices.
+- Implemented Clean Architecture principles to create a scalable and maintainable codebase.
+- Designed a separate admin panel for product, category, discount, and user management.
+- Integrated Identity Framework for authentication and authorization.
+- Built database models and managed data with Entity Framework Core and SQL Server.
+- Utilized Git and GitHub for version control and collaboration.
 - Project is currently under active development.
 
 ---
@@ -53,10 +55,13 @@ National University of Skills (NUS)
 - Resilience and Perseverance
 - Patience and Adaptability
 - Teamwork and Collaboration
-- Passion for Learning and Team-oriented Projects
+- Passion for Learning and Continuous Improvement
 
 ---
 
 ### Additional Information
-- Around 2 years of hands-on experience in learning and practicing programming.
-- Basic English proficiency.
+- Around 2 years of continuous programming experience and self-learning.
+- Native Persian speaker; Basic proficiency in English.
+- Passionate about building real-world applications, working in collaborative environments, and learning new technologies.
+
+---
