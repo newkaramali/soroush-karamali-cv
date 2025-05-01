@@ -62,6 +62,6 @@ National University of Skills (NUS)
 ### Additional Information
 - Around 2 years of continuous programming experience and self-learning.
 - Native Persian speaker; Basic proficiency in English.
-- Passionate about building real-world applications, working in collaborative environments, and learning new technologies.
+- Passionate about building real-world applications, working in collaborative environments, and learning new technologies
 
 ---
